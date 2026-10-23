@@ -1,0 +1,7 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+
+*.postman_collection.json
+03_libros_creados.json
